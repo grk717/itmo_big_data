@@ -28,9 +28,9 @@ ResourceManager в рабочем состоянии:
     
     [Mean Reducer](reducer_mean.py)
     
-    [Variance Mapper](mapper_mean.py)
+    [Variance Mapper](mapper_var.py)
     
-    [Variance Reducer](reducer_mean.py)
+    [Variance Reducer](reducer_var.py)
 
 4. Копирование исполняемых файлов на NameNode
 
